@@ -1,5 +1,3 @@
-# dpy-math_problems
-
 ## 📚 Table of Contents
 
 - [Introduction & Motivation](#introduction--motivation)
